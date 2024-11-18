@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class GuessingGame {
+public class Task1 {
     public static int startRound(int maxTries) {
         Random random = new Random();
         int targetNumber = random.nextInt(100) + 1; 
