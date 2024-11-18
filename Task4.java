@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class CurrencyConverter {
+public class Task4 {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Enter the base currency (e.g., USD): ");

@@ -74,7 +74,7 @@ class StudentManagementSystem {
         }
     }
 }
-public class StudentManagementApp {
+public class Task5 {
     private static final Scanner scanner = new Scanner(System.in);
     private static final StudentManagementSystem sms = new StudentManagementSystem();
     public static void main(String[] args) {
